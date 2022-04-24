@@ -1,0 +1,14 @@
+#image {
+    display: block;
+    justify-content: center;
+    object-fit: fill;
+    width: 100%;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'PT Serif', serif;
+}
+img {
+  max-width: 100%;
+}
